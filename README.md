@@ -9,4 +9,5 @@ This repository is used to store  Open-source Hardware Course assignment.
 0704 | car | 小车代码和电路图
 0704 | 7_Segment_Display | 数码管代码和电路图
 0705 | online_morse | morse代码，tinkercad可运行代码
+0705 | 4_7_Segment_Display |  4个数码管并联输入显示代码和电路图
 0705 | Summary.md | 个人总结
